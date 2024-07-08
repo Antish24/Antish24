@@ -12,14 +12,10 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=antish24">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Anteneh Ashenafi</a></b>
+                <b><a target="_blank" href="https://anteneh.vercel.app">Anteneh Ashenafi</a></b>
         </samp>
 </h3>
 
@@ -35,7 +31,7 @@
 </p>
 
 <p align="center">
- <a href="https:/anteneh.vercel.app" target="blank">
+ <a href="https://anteneh.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://linkedin.com/in/aantenehh24" target="_blank">
